@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    font-size: 21px;
+    line-height: 1.58;
+}
+
+header {
+    text-align: center !important;
+}
+
+.container-fluid{
+    padding: 0 !important;
+}
+
+.menu {
+    font-size: 20px;
+    background-color: #2a3f54;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+}
+
+.art {
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+footer {
+    text-align: center;
+    background-color: #ededed;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a:link, a:visited,a:hover, a:active {
+    text-decoration: none;
+}

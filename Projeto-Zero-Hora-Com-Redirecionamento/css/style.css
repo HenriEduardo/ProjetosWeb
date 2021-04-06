@@ -1,0 +1,265 @@
+*{
+    margin: 0 auto;
+}
+a{
+    text-decoration: none !important;
+}
+header{
+    background-color: orange !important;
+    width: 100%;
+    min-height: 70px;
+    margin-bottom: 0px !important;
+    padding: 0px 0px 0px 0px !important;
+    border: solid 1px black;
+}
+nav{
+    background-color: rgb(248, 200, 109) !important;
+    margin-top: -1px !important;
+}
+.navbar{
+    border: solid 1px black;
+}
+.nav-link{
+    color: black;
+}
+.carousel{
+    margin-top: 20px !important;
+}
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#titulo{
+    text-align: center;
+    font-size: 43px;
+    padding-top: 10px;
+    width: 300px;
+}
+article{
+    float: left;
+    width: 50%;
+    background-color: white;  
+}
+.Noticia{
+    width: 100%;
+    min-height: 200px;
+    display: flex;
+    align-items: center;
+    margin-top: 0px;
+}
+.pNoticia{
+    float: left;
+    width: 500px;
+    margin: 0px 0px 0px 40px!important;
+}
+.h1TituloNoticia{
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 500px;
+    float: left;
+    color: darkolivegreen;
+    padding-bottom: 30px;
+}
+p{
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: darkkhaki; 
+}
+#idHoraNoticia{
+    font-size: 12px;
+    color: slategrey;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0px 0px 0px 0px !important;
+    width: 130px !important;
+}
+.horanotícia{
+    margin: 0px 0px 0px 0px !important;
+    width: 130px !important;
+    margin-top: 160px !important;
+}
+.img{
+    height: 150px;
+    float: left;
+}
+.imgNoticia{
+    height: 150px;
+    float: left;
+}
+a{
+    text-decoration: none;
+    color: darkolivegreen;
+}
+aside{
+    background-color: white;
+    width: 50%;
+    float: right !important ;
+    margin-left: 1px;
+} 
+.Colunista{
+    width: 100%;
+    min-height: 200px;
+    clear: both;
+    display: table;
+    display: flex;
+    align-items: center;
+}
+.pColunista{
+    float: left;
+    width: 300px;
+    margin-left: 25px;
+    clear: both;
+}
+.h1Colunista{
+    float: left;
+    padding-bottom: 30px;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: darkolivegreen;
+}
+#idColunista{
+    color: darkred;
+}
+.img2{
+    height: 130px;
+    float: left;
+    margin-left: 0px;
+    display: flex;
+    align-items: center;
+}
+.imgColunista{
+    height: 130px;
+    float: left;
+    border-radius: 50%;
+}
+.ConteudoLivre{
+    background-color: white;
+    width: 100%;
+    min-height: 200px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.pConteudoLivre{
+    width: 300px;
+    margin-left: 25px;
+    clear: both;
+    text-align: center;
+}
+.h1ConteudoLivre{
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: darkolivegreen;
+}
+.img3{
+    height: 150px;
+    float: left;
+    margin-left: 10px;
+}
+.imgConteudoLivre{
+    height: 150px;
+    float: left;
+}
+footer{
+    background-color: orange !important;
+    width: 100%;
+    min-height: 90px !important;
+    clear: both;
+    margin-bottom: 0px !important;
+    padding: 0px 0px 0px 0px !important;
+}
+#LogoZeroHora{
+    margin-left: 10%;
+    padding-top: 15px;
+}
+#TextFooter{
+    margin-top: -95px;
+    width: 300px;
+    margin-left: 24%;
+    min-height: 92px;
+}
+#TextFooterP{
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    font-size: 17px;
+}
+.RedesSociais{
+    width: 200px;
+    min-height: 92px;
+    margin-top: -94px;
+    margin-left: 1512px;
+}
+.NomeRedeSocial{
+    margin-top: 2px;
+    width: 80px;
+    text-align: left;
+    display: inline-block;
+}
+.pRedeSocial{
+    display: inline-block;
+    text-align: left;
+    color: rgb(49, 12, 12);
+    font-family: cursive;
+}
+.ImgRedeSocial{
+    margin-top: -41px;
+    margin-left: 90px;
+    width: 23px;
+    min-height: 23px;
+    align-items: center;
+    display: flex;
+}
+.whatsapp{
+    margin-left: 975px;
+    width: 300px;
+    min-height: 94px;
+    margin-top: -93px;
+}
+#WppZH{
+    width: 140px;
+    text-align: left;
+    display: inline-block;
+    margin: 0px 0px 0px 17px !important;
+}
+#idZH{
+    color: rgb(49, 12, 12);
+    font-family: cursive;
+}
+.imgWpp{
+    width: 27px;
+    margin-left: 136px;
+    margin-top: -44px;
+    height: 23px;
+}
+.nroWpp{
+    width: 130px;
+    margin-left: 165px;
+    margin-top: -20px; 
+}
+#idnroZH{
+    color: rgb(49, 12, 12);
+    font-family: cursive;
+}
+#Wppradio{
+    width: 140px;
+    text-align: left;
+    display: inline-block;
+    margin-top: 53px;
+    margin: 45px 0px 0px 0px !important;
+}
+#idradio{
+    color: rgb(49, 12, 12);
+    font-family: cursive;
+}
+#idnroradio{
+    color: rgb(49, 12, 12);
+    font-family: cursive;
+}
+hr {
+    size: 1px !important;
+    margin: 0px 0px 0px 0px !important;
+}
